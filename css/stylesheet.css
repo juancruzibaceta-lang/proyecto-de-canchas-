@@ -1,0 +1,77 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 250px;
+    background-color: blue;
+}
+
+main{background-color: blanchedalmond;}
+
+section{background-color: rgb(255, 234, 188);
+height: 1400px;
+
+}
+
+.nino{
+    background-color: red;
+    height: 700px;
+    
+    }
+.contenedor_productos{
+    position: relative;
+}
+
+
+.contenedor_productos div{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    margin-top: 20px;
+  
+}
+.naranja{
+    position: absolute;
+    left: 150px;
+    top: 20px;
+    background-color: coral;
+    
+}
+.violeta{
+    background-color: blueviolet;
+    position: relative;
+    /*float: right;*/  
+    margin-left: auto;
+    
+}
+.verde{
+    /*position: fixed;*/
+    position: sticky;
+    top: 10px;
+    background-color: green;}
+
+
+
+
+ *{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+/* ESTILO DE FUENTE */
+h1, h2, h3, h4, h5, h6{
+    font-family: "Montserrat", sans-serif;
+}
+
+/*MOVER A LA DERECHA */
+nav{
+    margin-left: auto;
+    height: 30px;
+    width: 400px;
+    background-color: rgb(144, 144, 249);
+}
+
+
+ul li
+   
